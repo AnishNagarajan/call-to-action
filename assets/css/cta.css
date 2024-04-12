@@ -8,13 +8,17 @@
     grid-template-columns:30px 1fr;
     
 }
+.bg-section{
+    padding: 15vh 10vw;
+    font-weight: bold;
+}
 .cta-img{
     padding-top: 1rem;
 }
-p{
+.bg-section p{
     color:var(--primary-color);
 }
-h2{
+ .bg-section h2{
     font-size: 2rem;
     color:white;
 }

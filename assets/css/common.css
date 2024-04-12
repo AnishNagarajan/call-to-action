@@ -10,10 +10,7 @@ body{
     font-family:var(--fontfamily);
 
 }
-section{
-    padding: 15vh 10vw;
-    font-weight: bold;
-}
+
 a{
     text-decoration: none;
 }
